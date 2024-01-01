@@ -10,4 +10,4 @@ We use Torch and DGL as the backend.
 Coming soon~~~
 
 ## Related Works
-- **Trustworthy End-to-End Deep Student Knowledge Portrait Modelling Method (Journal of Computer Research and Development, 2023).** [[Paper](https://dl.acm.org/doi/abs/10.1145/3404835.3462932](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330229))][[Presentation](https://sosweetzhang.github.io/share/Talks/CCFAI2023-DKP.pdf)]
+- **Trustworthy End-to-End Deep Student Knowledge Portrait Modelling Method (Journal of Computer Research and Development, 2023).** [[Paper](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202330229)][[Presentation](https://sosweetzhang.github.io/share/Talks/CCFAI2023-DKP.pdf)]
